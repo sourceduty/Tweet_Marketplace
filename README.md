@@ -19,6 +19,6 @@ Buyers:
 
 ## FEATURES
 
--Buy and sell tweets that are scheduled before and after large events. 
--Buy and sell tweets on holidays and birthdays.
--Buy and sell tweets that are sent to celebrities and public figures.
+- Buy and sell tweets that are scheduled before and after large events. 
+- Buy and sell tweets on holidays and birthdays.
+- Buy and sell tweets that are sent to celebrities and public figures.
