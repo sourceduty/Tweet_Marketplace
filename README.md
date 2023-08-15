@@ -1,8 +1,10 @@
 ## Tweet_Marketplace
 
-💸 Buy and sell future tweets from popular and verified Twitter accounts.
+💸 Software concept for a tweet marketplace.
 
 ## CONCEPT
+
+Buy and sell future tweets from popular and verified Twitter accounts.
 
 Sellers:
 
