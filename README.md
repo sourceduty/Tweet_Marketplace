@@ -6,6 +6,8 @@
 
 Buy and sell future tweets from popular and verified Twitter accounts.
 
+## USAGE
+
 Sellers:
 
 1. Sign up using a verified Twitter account.
