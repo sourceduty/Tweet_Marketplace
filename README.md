@@ -29,6 +29,10 @@ More Features:
 ### Related Links
 
 [Social Prep](https://github.com/sourceduty/Social_Prep/tree/main)
+<br>
+[Subreddit Finder](https://github.com/sourceduty/Subreddit_Finder)
+<br>
+[Tweet Prescheduler](https://github.com/sourceduty/Tweet_Prescheduler)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
