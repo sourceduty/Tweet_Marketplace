@@ -33,6 +33,8 @@ More Features:
 [Subreddit Finder](https://github.com/sourceduty/Subreddit_Finder)
 <br>
 [Tweet Prescheduler](https://github.com/sourceduty/Tweet_Prescheduler)
+<br>
+[X Milestones](https://github.com/sourceduty/Automatic_X_Milestones)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
